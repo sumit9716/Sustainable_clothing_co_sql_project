@@ -1,0 +1,2 @@
+# Sustainable_clothing_co_sql_project
+sql_project case study of sustainable_clothing_co marketing analysis
